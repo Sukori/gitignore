@@ -1,2 +1,5 @@
 #commentaire *.txt c'est all.txt files
+# https://github.com/github/gitignore liste de gitignore préconstruits et utiles. Y en a un pour unity
+
+#fichier local ignoré
 secrets.txt
